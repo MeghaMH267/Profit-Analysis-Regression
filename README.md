@@ -74,9 +74,9 @@ The model achieved an R² value of approximately 0.95, indicating a strong relat
 
 ## Dashboard
 
-The Power BI dashboard provides interactive visualizations for profitability, expenditure, state-wise performance, correlation analysis, and profit prediction.
+The Power BI dashboard provides an interactive view of startup profitability, expenditure, state-wise performance, and regression analysis.
 
-![Profit Analysis Dashboard](./profit-analysis-dashboard.png)
+![Profit Analysis Dashboard](https://github.com/MeghaMH267/Profit-Analysis-Regression/blob/main/Profit%20Analysis%20Dashboard.png)
 
 ## Key Insights
 
